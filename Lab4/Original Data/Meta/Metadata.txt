@@ -1,0 +1,9 @@
+Metadata
+year 		- Year of release
+artist.inverted - Surename and name of song author
+track 		- Title of the song
+time		- Length of the song
+genre		- Genre of the song
+date.entered	- Date when song entered top charts
+date.peaked 	- Date when song was the most popular on the charts
+xNth.week 	- where N is a natural number, place in top charts in Nth week since entering
